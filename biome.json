@@ -8,10 +8,7 @@
     "rules": {
       "recommended": true
     },
-    "ignore": [
-      "node_modules/**",
-      "dist/**"
-    ]
+    "ignore": ["node_modules/**", "dist/**"]
   },
   "javascript": {
     "parser": {
@@ -49,9 +46,6 @@
     "formatWithErrors": true,
     "lineWidth": 120,
     "indentStyle": "tab",
-    "ignore": [
-      "node_modules/**",
-      "dist/**"
-    ]
+    "ignore": ["node_modules/**", "dist/**"]
   }
 }
